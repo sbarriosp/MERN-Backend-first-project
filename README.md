@@ -1,3 +1,3 @@
-# pets-back
+#MERN Backend project 
 
-This is my first backend that I make in NodeJS, Soon I'll update an organized project
+This is my first backend that I make in NodeJS, There you can see a CRUD App.
